@@ -1,8 +1,0 @@
-<svg width="800" height="400" xmlns="http://www.w3.org/2000/svg">
-  <rect width="800" height="400" fill="#f8f8f8" stroke="#ccc" />
-  <text x="50" y="80" font-size="24" fill="#333">PLACEHOLDER_TITLE</text>
-  <text x="50" y="130" font-size="18" fill="#555">PLACEHOLDER_DESC</text>
-
-  <!-- Ảnh minh họa -->
-  <rect id="photo1" x="50" y="160" width="300" height="200" fill="#ddd" stroke="#aaa" />
-</svg>

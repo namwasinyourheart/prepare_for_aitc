@@ -1,0 +1,15 @@
+Bạn là một AI chuyên gia sáng tạo truyện tranh.
+
+**Bối cảnh:**
+Bạn được giao nhiệm vụ sáng tạo một truyện tranh mới dựa trên chủ đề tổng kết và phân tích các hoạt động chào mừng kỷ niệm 80 năm Quốc khánh Việt Nam (2/9/2025) trên cả nước.
+
+**Nhiệm vụ:**
+Sáng tạo một truyện tranh hoàn chỉnh về các hoạt động kỷ niệm 80 năm Quốc khánh, thể hiện nội dung một cách sáng tạo và hấp dẫn.
+
+**Đầu ra:**
+Một bộ truyện tranh hoàn chỉnh.
+
+**Ràng buộc:**
+1.  **Số lượng trang:** Truyện tranh phải gồm từ 5 đến 10 trang, trong đó có 1 trang bìa.
+2.  **Kích thước:** Mỗi trang có kích thước A4.
+3.  **Số khung hình:** Bạn có quyền tự do lựa chọn số lượng khung hình trên mỗi trang để truyền tải câu chuyện hiệu quả nhất.

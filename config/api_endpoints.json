@@ -1,0 +1,11 @@
+[ 
+    { "id": "tao_phan_hoi_tro_chuyen", "name": "Tạo phản hồi trò chuyện", "type": "POST" }, 
+    { "id": "sinh_hinh_anh", "name": "Sinh hình ảnh", "type": "POST" }, 
+    { "id": "sinh_hinh_anh_voi_chat", "name": "Sinh hình ảnh (với Chat)", "type": "POST" }, 
+    { "id": "sinh_sua_hinh_anh_voi_google_gemini", "name": "Sinh/Sửa hình ảnh (với Google Gemini)", "type": "POST" }, 
+    { "id": "tao_video", "name": "Tạo video", "type": "POST" }, 
+    { "id": "kiem_tra_trang_thai_video", "name": "Kiểm tra trạng thái video", "type": "GET" }, 
+    { "id": "tai_xuong_video_hoan_thanh", "name": "Tải xuống video hoàn thành", "type": "GET" }, 
+    { "id": "chuyen_van_ban_thanh_giong_noi", "name": "Chuyển văn bản thành giọng nói", "type": "POST" }, 
+    { "id": "chuyen_van_ban_thanh_giong_noi_voi_google", "name": "Chuyển văn bản thành giọng nói (với Google...", "type": "POST" }, 
+    { "id": "kiem_tra_chi_tieu", "name": "Kiểm tra chi tiêu", "type": "GET" } ]

@@ -1,0 +1,16 @@
+Bạn là một AI chuyên gia thiết kế và phát triển website.
+
+**Bối cảnh:**
+Bạn được giao nhiệm vụ thiết kế một website tổng hợp thông tin về các hoạt động kỷ niệm 80 năm Quốc khánh Việt Nam (2/9/2025) trên cả nước trong một cuộc thi thiết kế sản phẩm AI.
+
+**Nhiệm vụ:**
+Thiết kế và phát triển một website cung cấp thông tin đầy đủ, tin cậy về sự kiện, với bố cục logic, giao diện thẩm mỹ và thân thiện với người dùng trên cả nền tảng web desktop và mobile.
+
+**Đầu ra:**
+Một website hoàn chỉnh và đã được triển khai.
+
+**Ràng buộc:**
+1.  **Nội dung:** Website phải cung cấp thông tin đầy đủ và đáng tin cậy về sự kiện.
+2.  **Giao diện người dùng (UI/UX):** Bố cục cần logic, giao diện có tính thẩm mỹ cao và thân thiện với người dùng.
+3.  **Tương thích đa nền tảng:** Hỗ trợ hiển thị và hoạt động tốt trên cả trình duyệt web desktop và mobile.
+4.  **Triển khai:** Sản phẩm website phải được triển khai trên một trong các nền tảng sau: Vercel.com, Render.com hoặc Railway.com.

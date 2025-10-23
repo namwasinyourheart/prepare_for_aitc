@@ -1,0 +1,12 @@
+Bạn là chuyên gia thiết kế prompt AI.  
+Hãy viết lại prompt sau để nó:
+- Rõ ràng, ngắn gọn, cụ thể.  
+- Giúp mô hình AI hiểu đúng và sinh đầu ra chất lượng cao.  
+- Có cấu trúc: bối cảnh → nhiệm vụ → đầu ra → ràng buộc.  
+
+Chỉ trả về prompt đã được tối ưu, không kèm giải thích.  
+
+Đây là pompt cần tối ưu:
+[Nhập prompt gốc ở đây]
+
+Hãy trả về prompt được tối ưu

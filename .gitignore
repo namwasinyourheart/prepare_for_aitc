@@ -1,0 +1,18 @@
+# Python
+*__pycache__/
+*.pyc
+
+# Outputs
+# outputs/
+# generated_image.png
+
+# Environment
+.env
+venv/
+
+# IDE
+.vscode/
+.idea/
+# **.mp4  
+
+logs/

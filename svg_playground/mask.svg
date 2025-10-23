@@ -1,5 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512">
-  <rect width="100%" height="100%" fill="black"/>
-  <!-- vùng cần chỉnh (áo) -->
-  <path d="M176,260 Q256,220 336,260 L336,360 Q256,380 176,360 Z" fill="white"/>
-</svg>
